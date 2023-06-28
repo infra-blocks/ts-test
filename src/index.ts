@@ -1,1 +1,2 @@
-export { testMe } from "./utils.js";
+export { expect } from "./expect.js";
+export * from "./fake.js";
