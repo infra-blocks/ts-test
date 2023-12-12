@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "rootDir": "./",
     "declaration": true,
     "skipLibCheck": true,
     "module": "node16",
@@ -11,6 +12,6 @@
     "noEmit": true,
     "incremental": true
   },
-  "include": [ "src/**/*", "test/**/*", "**/.eslintrc.js", "nyc.config.js" ],
+  "include": [ "src/**/*", "test/**/*", "**/.eslintrc.cjs", "**/.mocharc.cjs" ],
   "exclude": ["lib/**/*"]
 }
