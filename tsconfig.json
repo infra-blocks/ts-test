@@ -1,13 +1,15 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
     "rootDir": "./",
     "declaration": true,
+=======
+>>>>>>> template/master
     "skipLibCheck": true,
     "module": "node16",
-    "outDir": "lib",
+    "outDir": "./lib/compile",
     "strict": true,
     "target": "esnext",
-    "sourceMap": true,
     "lib": [
       "esnext"
     ],
