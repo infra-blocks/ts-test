@@ -1,5 +1,5 @@
 import * as chai from "chai";
-import chaiPromise from "chai-as-promised";
+import chaiPromise = require("chai-as-promised");
 import sinonChai from "sinon-chai";
 
 chai.use(chaiPromise);
