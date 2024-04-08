@@ -1,6 +1,6 @@
 {
   "name": "@infra-blocks/test",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Testing utilities.",
   "repository": {
     "type": "git",
