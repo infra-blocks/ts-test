@@ -5,3 +5,4 @@ export * from "./fixtures.js";
 
 import sinon from "sinon";
 export { sinon };
+export { expectTypeOf } from "expect-type";
