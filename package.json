@@ -45,6 +45,7 @@
     "test:unit": "mocha --config test/unit/.mocharc.cjs 'test/unit/**/*.spec.ts'"
   },
   "dependencies": {
+    "@infra-blocks/types": "^0.26.0",
     "@types/chai": "^4.3.5",
     "@types/chai-as-promised": "^7.1.5",
     "@types/sinon-chai": "^3.2.9",
