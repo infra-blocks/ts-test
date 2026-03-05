@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.8.0] - 2026-03-05
+
+### Changed
+
+- Changed the Node.js development version to `24.14.0` and stopped support for version
+20.
+
 ## [0.7.0] - 2026-02-06
 
 ### Changed
@@ -108,6 +115,8 @@ it themselves.
   - `fakerFor`, `fake`
   - `expect`
 
+[0.8.0]: https://github.com/infra-blocks/ts-test/compare/v0.7.0...v0.8.0
+[0.7.0]: https://github.com/infra-blocks/ts-test/compare/v0.6.0...v0.7.0
 [0.6.0]: https://github.com/infra-blocks/ts-test/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/infra-blocks/ts-test/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/infra-blocks/ts-test/compare/v0.3.6...v0.4.0
