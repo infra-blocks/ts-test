@@ -25,6 +25,11 @@
       "import": "./lib/esm/mocha/bdd/index.js",
       "require": "./lib/cjs/mocha/bdd/index.js",
       "default": "./lib/esm/mocha/bdd/index.js"
+    },
+    "./node/test": {
+      "import": "./lib/esm/node/test/index.js",
+      "require": "./lib/cjs/node/test/index.js",
+      "default": "./lib/esm/node/test/index.js"
     }
   },
   "files": [
